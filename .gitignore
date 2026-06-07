@@ -98,7 +98,7 @@ ipython_config.py
 #   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
 #   commonly ignored for libraries.
-# uv.lock
+uv.lock
 
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
@@ -160,6 +160,9 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# Visual Studio Code settings
+.vscode/
 
 # Rope project settings
 .ropeproject
