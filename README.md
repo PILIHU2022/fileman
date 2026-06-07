@@ -6,7 +6,7 @@ A Python based powerful TUI file manager
 ## 1. Core / Backend
 > Goal: Implement a UI-agnostic file system abstraction and operation layer. All code must be independent of any TUI library.
 
-- [ ] 1.1 **Project Scaffolding**
+- [x] 1.1 **Project Scaffolding**
 - [ ] 1.2 **File System Abstraction Layer**
 - [ ] 1.3 **Metadata & Information Retrieval**
 - [ ] 1.4 **File Operation Commands**

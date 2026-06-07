@@ -1,4 +1,6 @@
+"""The launcher of fileman."""
 def main():
+    """The main function."""
     pass
 
 
